@@ -1,0 +1,7 @@
+﻿  OOP_lab2_2.cpp
+C:\Users\Sergey\source\repos\OOP_lab2_2\OOP_lab2_2.cpp(11,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sergey\source\repos\OOP_lab2_2\OOP_lab2_2.cpp(20,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sergey\source\repos\OOP_lab2_2\OOP_lab2_2.cpp(21,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sergey\source\repos\OOP_lab2_2\OOP_lab2_2.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sergey\source\repos\OOP_lab2_2\OOP_lab2_2.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+  OOP_lab2_2.vcxproj -> C:\Users\Sergey\source\repos\OOP_lab2_2\Debug\OOP_lab2_2.exe
